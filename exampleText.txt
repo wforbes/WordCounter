@@ -1,0 +1,3 @@
+This is an example text to test the WordCounter app. The purpose of this app is to count the number of words in a given text document. Here are the project specifications as given to me from Mr. Harvey:
+
+Using Visual Studio, write a small C# console program that accepts a file path to a text file as a command line parameter, opens the file for read, counts the number of words in the file, prints the number of words found to the console, and exits.  Zip up the entire Visual Studio project, and send it to me.
